@@ -77,6 +77,7 @@ Citi Bike is a privately owned public bicycle sharing system serving the New Yor
  - **Dashboard:** Rider Analysis
 
 **5) Analysis - Maps, Dashboards and Visualisations**
+- ![image](https://github.com/jyojay/Tableau-challenge/assets/132628129/682dbbd7-9eca-4cd6-970c-99f1beebbd31)
 
 ### Details and Analysis
 #### Map
@@ -144,9 +145,9 @@ Citi Bike is a privately owned public bicycle sharing system serving the New Yor
 - Total number of **electric bike rides has reduced from last year** considerably. 
 ![image](https://github.com/jyojay/Tableau-challenge/assets/132628129/6e68349e-ae87-49f4-8c64-1a1c974cdca3)
 
-- Reasons like **safety concerns, difficulty of maintenance, increase in membership fees and increase in the competition from other bike sharing services or private electric bike owners which could affect the satisfaction and demand of its users. The excluded bike type "docked_bike" might be the missing data to these numbers but it is not clear for a person not living in that area or having used the service.**
+- Reasons like **safety concerns, difficulty of maintenance, increase in membership fees and increase in the competition from other bike sharing services or private electric bike owners which could affect the satisfaction and demand of its users. The excluded bike type "docked_bike" might be the missing data to these numbers but it is not clear for a person not living in that area or having used the service.** https://www.nytimes.com/2023/06/21/nyregion/e-bike-lithium-battery-fires-nyc.html
 - Citi Bike's electric fleet makes up just 20 percent of its bikes in New York City, despite significantly higher demand for the rides: In 2019, the operator said each pedal-assist e-bike was rented out for three times as many trips per day as a "classic" non-electric bike.https://nyc.streetsblog.org/2023/09/19/say-good-bye-to-the-free-citi-bike-e-bike-loophole
-- **Recommendations:** Reasons as stated above would need to be monitored closely to improve these statistics considering Citi Bike had increased its electric bike fleet during this period .
+- **Recommendations:** Reasons as stated above would need to be monitored closely to improve these statistics considering Citi Bike had increased its electric bike fleet during this period. https://www.bicycling.com/news/a39945527/citi-bike-new-e-bike-nyc-bikeshare/
 
 
 
