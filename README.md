@@ -148,6 +148,13 @@ Please note that the analysis are covered in the Tableau story board for each el
 Citi Bike's electric fleet makes up just 20 percent of its bikes in New York City, despite significantly higher demand for the rides: In 2019, the operator said each pedal-assist e-bike was rented out for three times as many trips per day as a "classic" non-electric bike.https://nyc.streetsblog.org/2023/09/19/say-good-bye-to-the-free-citi-bike-e-bike- <br />
 - **Recommendations:** Reasons as stated above would need to be monitored closely to improve these statistics. With regard to electric bikes, considering Citi Bike had increased its electric bike fleet during this period, the statistics need to be monitored closely and steps taken for optimization of results. https://www.bicycling.com/news/a39945527/citi-bike-new-e-bike-nyc-bikeshare/
 
+##### Copyright and Disclaimer
+
+- Images used on the dashboard are all from CIti Bike website and any copyright laws would apply. <br />
+https://commons.wikimedia.org/wiki/File:Citi_Bike_logo.svg
+- This is a university project hence should not be used for any official purposes.
+
+
 
 
 
